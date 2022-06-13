@@ -1,8 +1,10 @@
-## Olá! Eu sou a Luciene Gomes 👋
+## Hi ! I’m Luciene Gomes 👋
 
+
+- 🎓 I’m studing: Big Data and Intelligence Analytics
 - 👩‍💻 I’m currently learning: Python e SQL
-- 😄 Pronouns: ela/dela
-- ⚡ Fun fact: me aventurando no mundo dos dados!
+- 😄 Pronouns: She / Her
+- ⚡ Fun fact: Venturing in the world of data!
 
 <div align="center">
   <a href="https://github.com/lucienegomes19">
