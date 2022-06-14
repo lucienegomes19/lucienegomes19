@@ -2,7 +2,7 @@
 
 
 - 🎓 I’m studing: Big Data and Intelligence Analytics
-- 👩‍💻 I’m currently learning: Python e SQL
+- 👩‍💻 I’m currently learning: Python and SQL
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: Venturing in the world of data!
 
