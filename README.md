@@ -5,6 +5,7 @@
 - 👩‍💻 I’m currently learning: Python and SQL
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: Venturing in the world of data!
+- 📬 Email: lucienegomes19@gmail.com
 
 <div align="center">
   <a href="https://github.com/lucienegomes19">
